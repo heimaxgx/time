@@ -40,7 +40,7 @@ body {
   white-space: nowrap;
   font-weight: bold;
   font-size: .2604rem;
-  animation: move 6s linear infinite;
+  animation: move 10s linear infinite;
 }
 
 @media (max-width: 760px) {
